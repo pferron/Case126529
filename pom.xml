@@ -415,7 +415,7 @@
         <dependency>
             <groupId>org.hibernate.validator</groupId>
             <artifactId>hibernate-validator</artifactId>
-            <version>6.1.5.Final</version>
+            <version>6.2.0.CR1</version>
         </dependency>
         <dependency>
             <artifactId>jackson-core</artifactId>
